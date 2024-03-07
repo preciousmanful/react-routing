@@ -1,7 +1,7 @@
 // Home.js
 import React from 'react';
 
-const Home = () => {
+const Services = () => {
   return (
     <div>
       <h1>Services Page</h1>
@@ -10,4 +10,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Services;
